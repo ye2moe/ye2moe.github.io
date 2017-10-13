@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ye2moe/ye2moe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-this is test for url [next](#next.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [1](1)
+* [2](2)
 
 ### Markdown
 
